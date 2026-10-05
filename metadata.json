@@ -1,0 +1,6 @@
+{
+  "name": "জিহান মৎস্য বীজাগার",
+  "description": "জিহান মৎস্য বীজাগার - মাছের রেনু পোনা বিক্রয়, মেমো তৈরি ও গ্রাহক ব্যবস্থাপনা অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
